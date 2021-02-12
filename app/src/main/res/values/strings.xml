@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BeerCalc</string>
+    <string name="volume">Volume</string>
+    <string name="gravity">Gravity</string>
+    <string name="weight">Weight</string>
+    <string name="acid">Alpha acid</string>
+    <string name="boil">Boiling time</string>
+    <string name="ibu">IBU</string>
+    <string name="add">Add</string>
+    <string name="alcohol">Alcohol</string>
+    <string name="initialGravity">Initial</string>
+    <string name="finalGravity">Final</string>
+    <string name="changeUnits">Change Units</string>
+    <string name="changeLanguage">Change Language</string>
+    <string name="english">English</string>
+    <string name="polish">Polish</string>
+    <string name="american">American</string>
+    <string name="european">European</string>
+    <string name="messageAlcohol">Final value cannot be greater than initial value.</string>
+    <string name="messageAcid">Alpha acid value cannot be greater than 100.</string>
+    <string name="messageGravity">Too big value.</string>
+    <string name="hop">Hop</string>
+    <string name="brew">Brew</string>
+    <string name="messageOG">OG must be greater than 1.</string>
+    <string name="messageFG">FG must be greater than 1.</string>
+</resources>

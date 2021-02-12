@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/units"
+        android:title="@string/changeUnits">
+        <menu>
+            <item android:id="@+id/us"
+                android:title="@string/american"/>
+            <item android:id="@+id/eu"
+                android:title="@string/european"/>
+        </menu>
+    </item>
+
+    <item android:id="@+id/language"
+        android:title="@string/changeLanguage">
+        <menu>
+            <item android:id="@+id/en"
+                android:title="@string/english"/>
+            <item android:id="@+id/pl"
+                android:title="@string/polish"/>
+        </menu>
+    </item>
+</menu>

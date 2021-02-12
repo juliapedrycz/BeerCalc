@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BeerCalc</string>
+    <string name="volume">Objętość</string>
+    <string name="gravity">Gęstość</string>
+    <string name="weight">Waga</string>
+    <string name="acid">Kwasy alpha</string>
+    <string name="boil">Czas gotowania</string>
+    <string name="ibu">IBU</string>
+    <string name="alcohol">Alkohol</string>
+    <string name="initialGravity">Początkowe</string>
+    <string name="finalGravity">Końcowe</string>
+    <string name="changeUnits">Zmień Jednostki</string>
+    <string name="changeLanguage">Zmień Język</string>
+    <string name="english">Angielski</string>
+    <string name="polish">Polski</string>
+    <string name="american">Amerykańskie</string>
+    <string name="european">Europejskie</string>
+    <string name="messageAlcohol">Wartość końcowa nie może być większa niż początkowa.</string>
+    <string name="messageAcid">Wartość kwasów alpha nie może być większa niż 100.</string>
+    <string name="messageGravity">Za duża wartość.</string>
+    <string name="hop">Chmiel</string>
+    <string name="brew">Warka</string>
+    <string name="messageOG">OG musi być większe niż 1.</string>
+    <string name="messageFG">FG musi być większe niż 1.</string>
+    <string name="add">Dodaj</string>
+</resources>
