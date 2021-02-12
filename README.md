@@ -1,2 +1,2 @@
 # BeerCalc
-The application helps to calculate the IBUindex and the alcohol content of homemade beer.
+An application that helps to calculate the IBU index and the alcohol content of homemade beer.
